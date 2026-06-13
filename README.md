@@ -26,7 +26,7 @@
 
 I am a **BSc Data Science graduate from the University of Minho**, focused on **Data Engineering, Machine Learning and Business Intelligence**.
 
-I build practical data solutions — from raw data ingestion and transformation to predictive models, dashboards and decision-support systems.
+I build practical data solutions, from raw data ingestion and transformation to predictive models, dashboards and decision-support systems.
 
 My main interests are:
 
