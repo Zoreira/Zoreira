@@ -1,4 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8100F7&center=true&vCenter=true&repeat=false&width=435&lines=Jos%C3%A9+Moreira" alt="Typing SVG" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=81007F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Jos%C3%A9+Moreira" alt="José Moreira" />
+</h1>
+
+<p align="center">
+  Data Science Student @ UMinho · Data Engineering · Machine Learning · Analytics
+</p>
 
 Licenciado em **Ciência de Dados** pela Universidade do Minho, com sólida formação em engenharia de dados, aprendizagem automática e análise estatística. Apaixonado por transformar dados em decisões — desde a ingestão raw até à geração de conhecimento.
 
