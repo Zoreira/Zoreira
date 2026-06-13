@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8100F7&center=true&vCenter=true&repeat=false&width=435&lines=Jos%C3%A9+Moreira)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8100F7&center=true&vCenter=true&repeat=false&width=435&lines=Jos%C3%A9+Moreira" alt="Typing SVG" /></a>
 
 Licenciado em **Ciência de Dados** pela Universidade do Minho, com sólida formação em engenharia de dados, aprendizagem automática e análise estatística. Apaixonado por transformar dados em decisões — desde a ingestão raw até à geração de conhecimento.
 
