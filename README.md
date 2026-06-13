@@ -8,10 +8,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moreira--jose">
-    <img src="https://img.shields.io/badge/LinkedIn-FFA500?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/FFA500" width="38" height="38" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:josecarlos100256@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/FFA500" width="38" height="38" alt="Email" />
   </a>
 </p>
 Licenciado em **Ciência de Dados** pela Universidade do Minho, com sólida formação em engenharia de dados, aprendizagem automática e análise estatística. Apaixonado por transformar dados em decisões — desde a ingestão raw até à geração de conhecimento.
