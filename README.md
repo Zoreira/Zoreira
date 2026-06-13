@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=BSc+in+Data+Science+%40+UMinho;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
 </p>
 
 Licenciado em **Ciência de Dados** pela Universidade do Minho, com sólida formação em engenharia de dados, aprendizagem automática e análise estatística. Apaixonado por transformar dados em decisões — desde a ingestão raw até à geração de conhecimento.
