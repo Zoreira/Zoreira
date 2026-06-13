@@ -39,25 +39,6 @@ My main interests are:
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-`Python` `SQL` `R`
-
-**Data Engineering**  
-`Apache Spark` `Kafka` `PostgreSQL` `MinIO` `Trino` `Iceberg` `Nessie` `Debezium`
-
-**Machine Learning & Analytics**  
-`Scikit-learn` `Pandas` `NumPy` `LightGBM` `XGBoost` `Random Forest` `Time Series`
-
-**BI & Visualization**  
-`Power BI` `Tableau` `Dashboards` `KPIs` `Data Storytelling`
-
-**Tools & Environment**  
-`Git` `Docker` `Jupyter Notebook` `Google Cloud` `VS Code`
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏗️ Retail Analytics Lakehouse Platform  
