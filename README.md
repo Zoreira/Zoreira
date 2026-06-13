@@ -56,6 +56,11 @@ My main interests are:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Sistemas-Inteligentes-de-Apoio-decisao&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Sistemas Inteligentes de Apoio à Decisão" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/Zoreira/UrbanEdge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=UrbanEdge&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Sistemas Inteligentes de Apoio à Decisão" />
+      </a>
+    </td>
   </tr>
 </table>
 
