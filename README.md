@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=FFA500&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Jos%C3%A9+Moreira" alt="José Moreira" />
 </div>
@@ -50,7 +49,7 @@ My main interests are:
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Zoreira/Projeto-Final-Ci-ncia-de-Dados---PCD_20">
+      <a href="https://github.com/Zoreira/Projeto-Final-Ciencia-de-Dados">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-1&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
