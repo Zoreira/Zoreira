@@ -39,63 +39,46 @@ My main interests are:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ Retail Analytics Lakehouse Platform  
-End-to-end data engineering project integrating transactional, inventory, secondary market, social media and FX data.
-
-**Built with:** `Spark` `Kafka` `Debezium` `Iceberg` `MinIO` `Nessie` `Trino`
-
-**Highlights:**
-- Bronze / Silver / Gold architecture
-- Batch and streaming pipelines
-- Analytical datasets for BI and demand forecasting
-- SKU-level retail analytics
-
-🔗 **Repository:** [View project](https://github.com/Zoreira/REPOSITORY-NAME)
-
 ---
 
-### 🎓 Academic Trajectory Prediction Platform  
-Machine learning and web analytics project focused on analysing and predicting academic outcomes.
+## 📘 Course Projects
 
-**Built with:** `Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost`
+<p align="center">
+  Practical academic projects developed during my BSc in Data Science at the University of Minho.
+</p>
 
-**Highlights:**
-- Synthetic dataset with 900 students over 10 academic years
-- Prediction of course failure, dropout risk and academic progression
-- Interactive dashboard for academic decision support
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Zoreira/REPOSITORY-NAME-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-1&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Zoreira/REPOSITORY-NAME-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-2&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Zoreira/REPOSITORY-NAME-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-3&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Zoreira/REPOSITORY-NAME-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-4&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-🔗 **Repository:** [View project](https://github.com/Zoreira/REPOSITORY-NAME)
-
----
-
-### 🎬 Movie Analytics Pipeline & Tableau Dashboards  
-Data analytics pipeline for movie datasets, transforming raw data into structured analytical outputs.
-
-**Built with:** `Python` `SQL` `Tableau`
-
-**Highlights:**
-- Data cleaning and transformation pipeline
-- 7 interactive Tableau dashboards
-- Analysis of financial performance, market trends and geographic distribution
-
-🔗 **Repository:** [View project](https://github.com/Zoreira/REPOSITORY-NAME)
-
----
-
-### ☁️ Google Cloud Data Processing Projects  
-Cloud-based academic projects using virtual machines and storage buckets to process and manage large-scale datasets.
-
-**Built with:** `Google Cloud` `Python` `Cloud Storage` `VMs`
-
-**Highlights:**
-- Cloud-based data processing workflows
-- Scalable storage and preparation of datasets
-- Practical experience with cloud infrastructure for analytics
-
-🔗 **Repository:** [View project](https://github.com/Zoreira/REPOSITORY-NAME)
-
+<p align="center">
+  <a href="https://github.com/Zoreira?tab=repositories">
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-FFA500?style=for-the-badge&logo=github&logoColor=0D1117" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
