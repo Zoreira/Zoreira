@@ -50,24 +50,12 @@ My main interests are:
   <tr>
     <td>
       <a href="https://github.com/Zoreira/Projeto-Final-Ciencia-de-Dados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-1&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Final-Ciencia-de-Dados&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Zoreira/Projeto-Sistemas-Inteligentes-de-Apoio-decis-o">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-2&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Zoreira/REPOSITORY-NAME-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-3&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Zoreira/REPOSITORY-NAME-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-4&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Sistemas-Inteligentes-de-Apoio-decis-o&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
   </tr>
