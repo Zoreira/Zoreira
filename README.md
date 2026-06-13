@@ -50,12 +50,12 @@ My main interests are:
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Zoreira/REPOSITORY-NAME-1">
+      <a href="https://github.com/Zoreira/Projeto-Final-Ci-ncia-de-Dados---PCD_20">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-1&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Zoreira/REPOSITORY-NAME-2">
+      <a href="https://github.com/Zoreira/Projeto-Sistemas-Inteligentes-de-Apoio-decis-o">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=REPOSITORY-NAME-2&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
