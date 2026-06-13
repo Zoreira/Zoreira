@@ -48,12 +48,12 @@ My main interests are:
   <tr>
     <td>
       <a href="https://github.com/Zoreira/Projeto-Final-Ciencia-de-Dados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Final-Ciencia-de-Dados&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Final-Ciencia-de-Dados&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Projeto Final Ciência de Dados" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Zoreira/Sistemas-Inteligentes-de-Apoio-decisao">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=https://github.com/Zoreira/Sistemas-Inteligentes-de-Apoio-decisao&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Sistemas-Inteligentes-de-Apoio-decisao&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Sistemas Inteligentes de Apoio à Decisão" />
       </a>
     </td>
   </tr>
@@ -61,9 +61,10 @@ My main interests are:
 
 <p align="center">
   <a href="https://github.com/Zoreira?tab=repositories">
-    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-FFA500?style=for-the-badge&logo=github&logoColor=0D1117" />
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-FFA500?style=for-the-badge&logo=github&logoColor=0D1117" alt="All Repositories" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -89,4 +90,3 @@ My main interests are:
 <p align="center">
   <i>"Without data, you're just another person with an opinion."</i>
 </p>
-
