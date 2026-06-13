@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=FFA500&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Jos%C3%A9+Moreira" alt="José Moreira" />
 </div>
@@ -140,4 +140,4 @@ Cloud-based academic projects using virtual machines and storage buckets to proc
 <p align="center">
   <i>"Without data, you're just another person with an opinion."</i>
 </p>
-```
+
