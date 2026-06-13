@@ -48,7 +48,7 @@ My main interests are:
   <tr>
     <td>
       <a href="https://github.com/Zoreira/Projeto-Final-Ciencia-de-Dados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Final-Ciencia-de-Dados&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Projeto Final Ciência de Dados" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=Projeto-Final-Ciencia-de-Dados&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
     <td>
@@ -58,7 +58,7 @@ My main interests are:
     </td>
     <td>
       <a href="https://github.com/Zoreira/UrbanEdge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=UrbanEdge&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Sistemas Inteligentes de Apoio à Decisão" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoreira&repo=UrbanEdge&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" />
       </a>
     </td>
   </tr>
