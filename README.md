@@ -67,8 +67,6 @@ My main interests are:
 
 ---
 
-## 📫 Contact
-
 <p align="center">
   <a href="https://www.linkedin.com/in/moreira--jose">LinkedIn</a> ·
   <a href="mailto:josecarlos100256@gmail.com">Email</a> ·
