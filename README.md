@@ -67,18 +67,6 @@ My main interests are:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoreira&show_icons=true&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoreira&layout=compact&theme=dark&hide_border=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
