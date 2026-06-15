@@ -33,7 +33,6 @@ My main interests are:
 - Data Engineering and analytical pipelines
 - Machine Learning and forecasting
 - Business Intelligence and dashboarding
-- Data Lakehouse architectures
 - Automation, web scraping and real-world data products
 
 ---
